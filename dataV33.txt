@@ -37,21 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
 "native_network_choice":"admob"
   
 
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4ZfA3G.webp"},
+  {"desc2":"The Black Russian cocktail emerged during the late 1940s, at a time when vodka was beginning to gain recognition outside of its Russian homeland.","photo2":"https://iili.io/H4ZfoQt.jpg"},
+  {"desc3":" Gustave Tops, a Belgian barman working at the Hotel Metropole in Brussels, is credited with creating the Black Russian as a tribute to the then-unofficial ambassador of the United States to Luxembourg,","photo3":"https://iili.io/H4ZfzCX.jpg"},
+  {"desc4":"The name of the cocktail was inspired by the use of Russian vodka as the primary ingredient.","photo4":"https://iili.io/H4ZfnjI.jpg"},
+  {"desc5":"The simplicity of the Black Russian's recipe is part of its charm. Traditionally, the cocktail comprises just two ingredients: vodka and coffee liqueur","photo5":"https://iili.io/H4ZfT4s.jpg"},
+  {"descd":" The smoothness of vodka pairs harmoniously with the robust and slightly sweet flavor of coffee liqueur.","photod":"https://iili.io/H4ZfIGn.webp"}
    ]
  
 }
